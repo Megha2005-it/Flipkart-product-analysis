@@ -9,7 +9,7 @@ This project analyzes a real-world Flipkart product listings dataset (sourced fr
 
 ## Dataset
 
-- **Source:** [Flipkart Products Dataset – Kaggle](https://www.kaggle.com/) *(add your specific dataset link here)*
+- **Source:** [Flipkart Products Dataset – Kaggle](https://www.kaggle.com/) 
 - **Size:** ~20,000 rows, 15 original columns
 - **Fields:** product name, category tree, price, discounted price, brand, rating, description, and more
 
